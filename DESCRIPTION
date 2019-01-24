@@ -1,0 +1,13 @@
+Package: testpackage
+Title: Useful for greeting people
+Version: 0.0.0.1000
+Authors@R: 
+    person(given = "Claus Bo",
+           family = "Hansen",
+           role = c("aut", "cre"),
+           email = "sbo@trolling.dk")
+Description: This is a test package.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
