@@ -10,7 +10,7 @@ library(usethis)
 
 # Create package
 # This will open a now R Studio session, close that and open the new project
-create_package("/home/sbo/Data/Github/testpackage")
+create_package("/home/sbo/Data/Github/RserveFunctions")
 
 # Create a function in the package
 use_r("sayHello")
